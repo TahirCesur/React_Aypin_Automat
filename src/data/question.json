@@ -1,0 +1,65 @@
+[
+  {
+    "id": "1",
+    "delay": "100",
+    "quest": "Kıl Tekniği (Microblading) her kaşa ve cilde uygulanır mı?",
+    "answer": "Hayır. Kıl Tekniği için karma veya kuru ince bir cilt olması gerekir.",
+    "target": "#faq-list-1"
+  },
+  {
+    "id": "2",
+    "delay": "200",
+    "quest": "Kalıcı Kaş işlemi acıtır mı?",
+    "answer": "Ağrı insandaki ağrı eşiğine göre değişir.Gerek duyulduğunda acı azaltımı için lokal anestezik krem uygulanır.",
+    "target": "#faq-list-2"
+  },
+  {
+    "id": "3",
+    "delay": "300",
+    "quest": "Kaş işlemi ne kadar sürer?",
+    "answer": "Ortalama 1-2 saat arası sürmektedir.",
+    "target": "#faq-list-3"
+  },
+  {
+    "id": "4",
+    "delay": "400",
+    "quest": "Pudralama ya da Kıl Tekniği yaptıracağıma nasıl karar vermeliyim?",
+    "answer": "Hangi işlemin sizi uzun vadede mutlu edeceğine uzamanla birlikte karar vermelisiniz. Sizleri en doğru şekilde yönlendirmeye çalışacağımızdan emin olabilirsiniz.",
+    "target": "#faq-list-4"
+  },
+  {
+    "id": "5",
+    "delay": "500",
+    "quest": "Dudak Renklendirme ruj gibi mi görünüyor?",
+    "answer": "Renklendirmenin nasıl görüneceğine birlikte karar veriyoruz. İster ruj efekti ister daha soft bir biçimde çalışmak bizim elimizde.",
+    "target": "#faq-list-5"
+  },
+  {
+    "id": "6",
+    "delay": "600",
+    "quest": "Dudak Renklendirme işlemi çok acıtır mı?",
+    "answer": "İşlem öncesi uygulama yapılacak bölge anestezik krem ile uyuşturulur. İşlem esnasında yardımcı ara anestezi ihtiyaca göre kullanılabilir. Ağrı ve acı minumum seviyeye düşürülür.",
+    "target": "#faq-list-6"
+  },
+  {
+    "id": "7",
+    "delay": "700",
+    "quest": "Kalıcı Dipliner ve Kalıcı Eyeliner arasındaki fark nedir?",
+    "answer": "Dipliner kirpik diplerine uygulanırken, Eyeliner ise kalın ve kuyruk çizimi yapılarak gerçekleştirilir.",
+    "target": "#faq-list-7"
+  },
+  {
+    "id": "8",
+    "delay": "800",
+    "quest": "Kalıcı Eyeliner-Dipliner işlemi acılı bir uygulama mıdır?",
+    "answer": "Ağrı-acı minumumdur. İşlem öncesi uygulama yapılacak bölge anestezik krem ile uyuşturulur. Konforlu bir işlemdir.",
+    "target": "#faq-list-8"
+  },
+  {
+    "id": "9",
+    "delay": "900",
+    "quest": "Kalıcı Eyeliner-Dipliner işlemi cildimizde ne kadar kalır?",
+    "answer": "Kalıcılık ortalama 2-3 senedir.",
+    "target": "#faq-list-9"
+  }
+]

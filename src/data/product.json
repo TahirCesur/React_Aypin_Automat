@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "picture": "assets/img/Aypinautomat/civata1.webp",
+    "desc": "Özel Üretim Civatalar",
+    "nav": "/civata",
+    "title": "Özel Üretim Civatalar"
+  },
+  {
+    "id": "2",
+    "picture": "assets/img/Aypinautomat/pim1.webp",
+    "desc": "Özel Üretim Pimler",
+    "nav": "/pim",
+    "title": "Özel Üretim Pimler"
+  },
+  {
+    "id": "3",
+    "picture": "assets/img/Aypinautomat/pirinc1.webp",
+    "desc": "Özel Üretim Pirinç Parçalar",
+    "nav": "/pirinc",
+    "title": "Özel Üretim Pirinç Parçalar"
+  },
+  {
+    "id": "4",
+    "picture": "assets/img/Aypinautomat/burc1.webp",
+    "desc": "Özel Üretim Burçlar",
+    "nav": "/burc",
+    "title": "Özel Üretim Burçlar"
+  }
+]
