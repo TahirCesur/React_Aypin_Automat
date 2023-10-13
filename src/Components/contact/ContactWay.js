@@ -17,6 +17,7 @@ function ContactWay(props) {
         width="100%"
         height="300"
         style={{ border: "10px solid #212529" }}
+        title="Google Map"
         allowfullscreen=""
         loading="lazy"
         referrerpolicy="no-referrer-when-downgrade"

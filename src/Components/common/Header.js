@@ -38,9 +38,6 @@ function Header() {
               className="img-fluid"
             />
           </Link>
-          <h1 className="logo me-auto">
-            <Link to="/"></Link>
-          </h1>
           <Navbar.Toggle onClick={toggleNav} aria-controls="basic-navbar-nav" />
           <Navbar.Collapse
             expanded={expanded}

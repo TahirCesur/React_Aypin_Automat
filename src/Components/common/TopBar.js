@@ -23,7 +23,7 @@ const TopBar = () => {
           {t("TR")}&nbsp;
           <img
             src="/assets/img/TR Bayragi.webp"
-            alt="Tr"
+            alt=""
             width="20"
             height="17"
           />
@@ -37,7 +37,7 @@ const TopBar = () => {
           {t("EN")}&nbsp;
           <img
             src="/assets/img/EN Bayragi.webp"
-            alt="En"
+            alt=""
             width="20"
             height="17"
           />

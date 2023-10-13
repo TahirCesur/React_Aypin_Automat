@@ -22,8 +22,11 @@ function About() {
                     <img
                       src="assets/img/Aypinautomat/10.webp"
                       className="img-fluid"
-                      alt="Hakkımda"
+                      alt="Hakkımızda"
+                      title="Hakkımızda"
                       style={{ height: "100%", borderRadius: "5px" }}
+                      width={"100%"}
+                      height={"auto"}
                     />
                   </td>
                 </tr>

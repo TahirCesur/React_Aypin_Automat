@@ -94,6 +94,7 @@ function Contact() {
                   height: "385px",
                   boxShadow: "0 0 30px #44589072;",
                 }}
+                title="Google Map"
                 allowFullScreen=""
                 loading="lazy"
                 referrerPolicy="no-referrer-when-downgrade"

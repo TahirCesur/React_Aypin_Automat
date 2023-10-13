@@ -50,7 +50,7 @@ function Civata() {
               <div className="portfolio-details-slider swiper">
                 <div className="swiper-wrapper align-items-center">
                   <div className="swiper-slide">
-                    <img src="assets/img/Aypinautomat/civata1.webp" alt="Özel Üretim Civatalar" />
+                    <img src="assets/img/Aypinautomat/civata1.webp" alt="Özel Üretim Civatalar" title="Özel Üretim Civatalar" />
                   </div>
                 </div>
                 <div className="swiper-pagination"></div>

@@ -18,7 +18,7 @@ function PortfolioOne(props) {
       <a href={picture}>
         <img
           src={picture}
-          className="figure-img img-fluid rounded shadow"
+          className="figure-img img-fluid shadow"
           alt={t(desc)}
         />
       </a>

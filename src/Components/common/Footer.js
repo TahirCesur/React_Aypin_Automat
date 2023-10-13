@@ -63,7 +63,8 @@ function Footer() {
               </div>
 
               <div className="col-lg-3 col-md-6 footer-links">
-                <h4>{t("Kurumsal")}</h4>
+                <h3>{t("Kurumsal")}</h3>
+                <br/>
                 <ul>
                   <li>
                     <i className="bx bx-chevron-right"></i>{" "}
@@ -99,9 +100,10 @@ function Footer() {
               </div>
 
               <div className="col-lg-4 col-md-6 footer-links">
-                <h4>{t("Hammadde")}</h4>
+                <h3>{t("Hammadde")}</h3>
+                <br/>
                 <ul>
-                  <h6>{t("Hassas Ölçülerle Hazırlanan")}</h6>
+                  <h4 style={{fontSize:"14px", marginBottom:"0px"}}>{t("Hassas Ölçülerle Hazırlanan")}</h4>
                   <li>
                     <i className="bx bx-chevron-right"></i>
                     <Link to="/civata" onClick={scrollToTop}>
@@ -145,6 +147,7 @@ function Footer() {
       <a
         href="#"
         className="back d-flex align-items-center justify-content-center active"
+        title={t("Yukarı Çık")}
       >
         <i className="bi bi-arrow-up-short"></i>
       </a>
