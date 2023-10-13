@@ -26,7 +26,7 @@ function Aboutus() {
                       title="Hakkımızda"
                       style={{borderRadius: "5px" }}
                       width={"100%"}
-                      height={"auto"}
+                      height={"100%"}
                     />
                   </td>
                 </tr>

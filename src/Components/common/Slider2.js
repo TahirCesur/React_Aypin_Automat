@@ -10,7 +10,7 @@ function Slider2() {
       <section id="hero">
         <div className="container-fluid">
           <div className="row justify-content-between">
-            <div className="col-lg-12 pt-5 pt-lg-0 d-flex align-items-center justify-content-center">
+            <div className="col-lg-12 pt-5 pt-lg-0 d-flex align-items-center justify-content-center mb-5">
               <div data-aos="zoom-out">
                 <Link to="/portfolios" className="btn-get-started scrollto">
                   <h1 className="text-center">{t("Talaşlı İmalat")}</h1>
@@ -23,10 +23,10 @@ function Slider2() {
               data-aos-delay="300"
             >
               <img
-                src="assets/img/Aypinautomat/sliderorj1.png"
+                src="assets/img/Aypinautomat/sliderorj1.webp"
                 alt="Aypin Automat Slider"
                 width={"100%"}
-                height={"90%"}
+                height={"290vh"}
               />
             </div>
           </div>
@@ -48,16 +48,16 @@ function Slider2() {
           <g className="wave1">
             <use
               xlinkHref="#wave-path"
-              x="50"
-              y="3"
+              x="65"
+              y="5"
               fill="rgba(255,255,255, .1)"
             />
           </g>
           <g className="wave2">
             <use
               xlinkHref="#wave-path"
-              x="50"
-              y="0"
+              x="65"
+              y="5"
               fill="rgba(255,255,255, .2)"
             />
           </g>

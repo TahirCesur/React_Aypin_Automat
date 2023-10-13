@@ -36,6 +36,8 @@ function Header() {
               src="assets/img/Aypinautomat/aypin 1.webp"
               alt="Aypin Automat Logo"
               className="img-fluid"
+              maxWidth={"100%"}
+              height={"100%"}
             />
           </Link>
           <Navbar.Toggle onClick={toggleNav} aria-controls="basic-navbar-nav" />

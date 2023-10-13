@@ -27,6 +27,8 @@ function Footer() {
                     src="assets/img/Aypinautomat/aypin.webp"
                     alt="Aypin Logo"
                     className="img"
+                    maxWidth={"100%"}
+                    height={"100%"}
                   />
                   <br />
                   <br />
